@@ -9,5 +9,4 @@ const random = Math.ceil(Math.random() * 10)
 
 const mod = num3 % num4
 
-2,8,3,14,1,20,18
 const max = Math.max(2,8,3,14,1,20,18)
